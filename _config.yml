@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: chuzhuang wu
+position: 
+affiliation: 
+email: wcz1@stu.neu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -55,3 +55,7 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+# —— 最关键：站点地址 —— 
+url: "https://chunzwu.github.io"   # 你的用户主页域名
+baseurl: ""                        # 用户主页必须为空字符串
