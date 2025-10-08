@@ -56,6 +56,4 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
-# —— 最关键：站点地址 —— 
-url: "https://chunzwu.github.io"   # 你的用户主页域名
-baseurl: ""                        # 用户主页必须为空字符串
+
